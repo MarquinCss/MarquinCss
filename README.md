@@ -1,2 +1,2 @@
-### Hello i am MarquinCss !
-[![studying] (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+Hello! i am MarquinCss . 
+studying:<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </img>
