@@ -3,7 +3,7 @@
 
 
 
-<p><h2>Studying Day by Day:</h2></p> <p> <img src="![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svgstyle=for-the-badge&logo=Duolingo&logoColor=white)"> </img> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> </img>
+<p><h2>Studying Day by Day:</h2></p> <p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> </img> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> </img>
 <img src="![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 "> </img> </p>
 
