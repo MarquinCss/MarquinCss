@@ -21,10 +21,4 @@
  
 <br> 
 
-   <p> <h2> Working On Moment </h2> </p>
-   <ul> 
- <li> https://marquincss.github.io/Clock-Rel-gio/</li>
- <li> https://marquincss.github.io/IOS-Jogo-da-mem-ria-Turma-D/ </li>
-
-</ul>
-
+ 
