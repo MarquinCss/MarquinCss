@@ -39,5 +39,4 @@
  <a href="https://www.instagram.com/marcocarre29/" alt="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  title="my ig">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
       
- 
- 
+
