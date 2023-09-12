@@ -34,7 +34,7 @@
  </p>
 <p> <h2> Find me on : </h2>
 <p>
- <a href=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </img></a>
+ <a href="https://www.linkedin.com/in/marcoant%C3%B4niomarchicarreiro/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </img></a>
  <A href="https://www.tiktok.com/@marquincsss"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"> </img></a>
  <a href="https://www.instagram.com/marcocarre29/" alt="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  title="my ig">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
