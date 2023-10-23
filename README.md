@@ -38,5 +38,14 @@
  <A href="https://www.tiktok.com/@marquincsss"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"> </img></a>
  <a href="https://www.instagram.com/marcocarre29/" alt="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  title="my ig">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+ ### 🏆 GitHub Profile Trophy:
+ 
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=MarquinCss&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+</p>
+
       
 
